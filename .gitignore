@@ -1,0 +1,11 @@
+.venv/
+.venv-enrich2/
+outputs/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.tmp
+tmp/
+data/
+*.zip
+library-description.xlsx
